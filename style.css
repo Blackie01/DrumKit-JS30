@@ -40,3 +40,8 @@ body{
     border-color: hotpink;
     box-shadow: 0 0 10px hotpink;
 }
+
+.credit{
+    color: #fff;
+    text-align: center;
+}
